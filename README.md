@@ -1,5 +1,4 @@
 # Maze-Algorithms
-
 ## Maze Generation
 1. Backtracking
 2. Prims
