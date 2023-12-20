@@ -10,7 +10,7 @@
 2. A*
 
 ## Installation guide
-$ python3 -mpip install matplotlib
+$ python3 -m pip install matplotlib
 
 $ sudo apt-get install python python3-tk
 
